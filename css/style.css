@@ -765,18 +765,12 @@ body {
   .Titulo{
     margin-left: 7%;
     margin-right: 7%;
-    text-align: justify;
     font-size: 180%;
-  }
-
-  .Titulo span{
-    font-size: 100%;
   }
 
   .Nombre {
     margin-left: 7%;
     margin-right: 7%;
-    text-align: justify;
     font-size: 220%;
   }
 
