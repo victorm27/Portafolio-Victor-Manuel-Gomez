@@ -756,7 +756,7 @@ body {
   }
 
   .Titulo span{
-    font-size: 110%;
+    font-size: 90%;
   }
 
   .Nombre {
@@ -801,12 +801,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20%;
     margin-bottom: 8%;
   }
 
   .profile-picture img {
-    margin-top: 20%;
-    max-width: 126%;
+    max-width: 100%;
     max-height: auto;
     border-radius: 50%;
   }
