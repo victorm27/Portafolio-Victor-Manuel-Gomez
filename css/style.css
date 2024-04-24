@@ -720,7 +720,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    width: 90%;
     padding: 0;
     background-image: none;
   }
@@ -765,13 +765,13 @@ body {
   .Titulo{
     margin-left: 7%;
     margin-right: 7%;
-    font-size: 180%;
+    font-size: 150%;
   }
 
   .Nombre {
     margin-left: 7%;
     margin-right: 7%;
-    font-size: 220%;
+    font-size: 180%;
   }
 
   .Texto {
