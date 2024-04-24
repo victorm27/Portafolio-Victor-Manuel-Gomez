@@ -805,7 +805,9 @@ body {
   }
 
   .profile-picture img {
-    max-width: auto;
+    width: 16vw;
+    height: auto;
+    max-width: 90%;
     max-height: 90%;
     border-radius: 50%;
   }
