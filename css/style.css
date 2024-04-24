@@ -802,7 +802,7 @@ body {
   }
 
   .profile-picture img {
-    max-width: 90%;
+    max-width: 70%;
     max-height: auto;
     border-radius: 50%;
   }
@@ -816,6 +816,8 @@ body {
     text-align: left;
 }
 .about-img img{
+    align-content: center;
+    align-items: center;
     margin-top: 20%;
     max-width: 126%;
     max-height: auto;
