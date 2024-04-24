@@ -763,24 +763,30 @@ body {
   }
 
   .Titulo{
+    margin-left: 10%;
+    text-align: justify;
     font-size: 180%;
   }
 
   .Titulo span{
-    font-size: 90%;
+    font-size: 100%;
   }
 
   .Nombre {
+    margin-left: 10%;
+    text-align: justify;
     font-size: 220%;
   }
 
   .Texto {
+    margin-left: 10%;
+    text-align: justify;
     font-size: 106%;
   }
 
   .home-sci {
     display: flex;
-    margin-bottom: 20px;
+    margin-left: 10%;
   }
 
   #btn-about{
@@ -788,6 +794,8 @@ body {
   }
 
   .btn-box {
+    margin-left: 20%;
+    margin-right: 20%;
     font-size: 20px;
     display: flex;
     flex-direction: column;
@@ -841,6 +849,9 @@ body {
     font-size: 30px;
 }
 .about-text p {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 90%;
     text-align: justify;
  }
 }
