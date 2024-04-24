@@ -831,11 +831,7 @@ body {
     text-align: left;
 }
 .about-img img{
-    align-content: center;
-    align-items: center;
-    margin-top: 20%;
-    max-width: 126%;
-    max-height: auto;
+    display: none;
 }
 .about-text h2 {
     text-align: center;
