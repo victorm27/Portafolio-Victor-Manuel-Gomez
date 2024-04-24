@@ -798,12 +798,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10%;
+    margin-top: 30%;
     margin-bottom: 8%;
   }
 
   .profile-picture img {
-    margin-top: 10%;
+    margin-top: 30%;
     max-width: 70%;
     max-height: auto;
     border-radius: 50%;
