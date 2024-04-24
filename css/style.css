@@ -703,6 +703,7 @@ body {
 @media only screen and (max-width: 768px) {
     .logo{
         font-size: 20px;
+        margin-bottom: 10%;
     }
   .home {
     display: flex;
@@ -802,6 +803,7 @@ body {
   }
 
   .profile-picture img {
+    margin-top: 10%;
     max-width: 70%;
     max-height: auto;
     border-radius: 50%;
