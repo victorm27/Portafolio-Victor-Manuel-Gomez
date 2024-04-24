@@ -765,20 +765,20 @@ body {
   .Titulo{
     margin-left: 7%;
     margin-right: 7%;
-    font-size: 90%;
+    font-size: 40px;
   }
 
   .Nombre {
     margin-left: 7%;
     margin-right: 7%;
-    font-size: 100%;
+    font-size: 40px;
   }
 
   .Texto {
     margin-left: 7%;
     margin-right: 7%;
     text-align: justify;
-    font-size: 106%;
+    font-size: 15px;
   }
 
   .home-sci {
