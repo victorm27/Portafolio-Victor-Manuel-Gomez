@@ -701,6 +701,9 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+    .logo{
+        font-size: 20px;
+    }
   .home {
     display: flex;
     flex-direction: column;
@@ -799,10 +802,9 @@ body {
   }
 
   .profile-picture img {
-    max-width: 100%;
+    max-width: 90%;
     max-height: auto;
     border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   }
 
 .about{
@@ -813,4 +815,19 @@ body {
     padding: 20px;
     text-align: left;
 }
+.about-img img{
+    margin-top: 20%;
+    max-width: 126%;
+    max-height: auto;
+}
+.about-text h2 {
+    text-align: center;
+}
+.about-text h4 {
+    text-align: center;
+    font-size: 30px;
+}
+.about-text p {
+    text-align: justify;
  }
+}
