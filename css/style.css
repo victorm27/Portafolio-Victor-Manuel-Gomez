@@ -804,7 +804,7 @@ body {
 
   .profile-picture img {
     margin-top: 30%;
-    max-width: 70%;
+    max-width: 50%;
     max-height: auto;
     border-radius: 50%;
   }
