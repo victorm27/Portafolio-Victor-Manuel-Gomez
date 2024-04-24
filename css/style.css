@@ -805,8 +805,8 @@ body {
   }
 
   .profile-picture img {
-    width: 16vw;
-    height: auto;
+    width: 100%;
+    height: 100%;
     max-width: 90%;
     max-height: 90%;
     border-radius: 50%;
