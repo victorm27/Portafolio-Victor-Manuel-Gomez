@@ -763,7 +763,8 @@ body {
   }
 
   .Titulo{
-    margin-left: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
     text-align: justify;
     font-size: 180%;
   }
@@ -773,13 +774,15 @@ body {
   }
 
   .Nombre {
-    margin-left: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
     text-align: justify;
     font-size: 220%;
   }
 
   .Texto {
-    margin-left: 10%;
+    margin-left: 7%;
+    margin-right: 7%;
     text-align: justify;
     font-size: 106%;
   }
@@ -831,6 +834,7 @@ body {
   }
 
 .about{
+    margin-top: 10%;
     display: flex;
     flex-direction: column;
     align-items: center;
