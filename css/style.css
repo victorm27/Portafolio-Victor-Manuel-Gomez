@@ -295,7 +295,7 @@ body {
 #Skills{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .skills-tecnical{
     height: 100%;
